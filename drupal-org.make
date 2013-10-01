@@ -94,7 +94,7 @@ projects[media_youtube][version] = "2.0-rc3"
 
 projects[menu_block][version] = "2.3"
 
-projects[mimemail][version] = "1.x-dev"
+# projects[mimemail][version] = "1.x-dev"
 
 projects[module_filter][version] = "1.8"
 
