@@ -150,8 +150,6 @@ projects[views_boxes][version] = "1.0-beta8"
 
 projects[views_bulk_operations][version] = "3.1"
 
-projects[views_data_export][version] = "3.x-dev"
-
 projects[views_load_more][version] = "1.1"
 
 projects[views_php][version] = "1.x-dev"
