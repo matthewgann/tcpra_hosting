@@ -1,0 +1,101 @@
+name = "TBR Hosting"
+description = TBR Hosting Distribution
+version = "7.x-1.0"
+core = 7.x
+php = 5.3
+
+; The distribution_name property is used in the installer and other places as
+; a label for the software being installed.
+distribution_name = "TBR Hosting"
+
+; The exclusive flag auto-selects the profile during installation, if there
+; are no other exclusive ones.
+exclusive = TRUE
+
+; Required modules (Core)
+; Copy/pasted from standard.info
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dblog
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = rdf
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = taxonomy
+dependencies[] = overlay
+
+; Required modules (contrib)
+dependencies[] = module_filter
+dependencies[] = admin_menu
+dependencies[] = breakpoints
+dependencies[] = advanced_help
+dependencies[] = better_exposed_filters
+dependencies[] = ctools
+dependencies[] = computed_field
+dependencies[] = computed_field_tools
+dependencies[] = contextual
+dependencies[] = date
+dependencies[] = date_api
+dependencies[] = ds
+dependencies[] = ds_extras
+dependencies[] = ds_format
+dependencies[] = ds_forms
+dependencies[] = ds_ui
+dependencies[] = feeds
+dependencies[] = feeds_ui
+dependencies[] = email
+dependencies[] = field_collection
+dependencies[] = field_group
+dependencies[] = link
+dependencies[] = node_reference
+dependencies[] = references
+dependencies[] = imageapi
+dependencies[] = imageapi_gd
+dependencies[] = ldap_authorization
+dependencies[] = ldap_servers
+dependencies[] = ldap_sso
+dependencies[] = ldap_user
+dependencies[] = file_entity
+dependencies[] = media
+dependencies[] = media_internet
+dependencies[] = oembedcore
+dependencies[] = colorbox
+dependencies[] = boxes
+dependencies[] = diff
+dependencies[] = download_file
+dependencies[] = entity
+dependencies[] = entity_autocomplete
+dependencies[] = entity_token
+dependencies[] = job_scheduler
+dependencies[] = libraries
+dependencies[] = menu_block
+dependencies[] = pathauto
+dependencies[] = taxonomy_display
+dependencies[] = token
+dependencies[] = token_filter
+dependencies[] = elements
+dependencies[] = views_boxes
+dependencies[] = entitycache
+dependencies[] = respondjs
+dependencies[] = rules
+dependencies[] = rules_scheduler
+dependencies[] = rules_admin
+dependencies[] = options_element
+dependencies[] = ckeditor
+dependencies[] = uuid
+dependencies[] = draggableviews
+dependencies[] = views
+dependencies[] = views_bulk_operations
+dependencies[] = views_load_more
+dependencies[] = views_php
+dependencies[] = views_ui
