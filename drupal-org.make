@@ -224,6 +224,10 @@ libraries[colorbox][download][type] = "get"
 libraries[colorbox][download][url] = "http://webapps.tbr.edu/drupal/colorbox.zip"
 libraries[colorbox][directory_name] = "colorbox"
 
+libraries[mailchimp][download][type] = "get"
+libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/downloads/mailchimp-api-class.zip"
+libraries[mailchimp][directory_name] = "mailchimp"
+
 ;libraries[backbone][download][type] = "git"
 ;libraries[backbone][download][url] = "https://github.com/documentcloud/backbone.git"
 ;libraries[backbone][download][directory_name] = "backbone"
