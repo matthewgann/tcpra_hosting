@@ -84,6 +84,8 @@ projects[libraries][version] = "2.1"
 
 projects[link][version] = "1.1"
 
+projects[mailchimp][version] = "2.x-dev"
+
 projects[mailsystem][version] = "2.34"
 
 projects[media][version] = "2.0-alpha2"
