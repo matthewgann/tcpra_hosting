@@ -128,6 +128,8 @@ projects[respondjs][version] = "1.2"
 
 projects[rules][version] = "2.3"
 
+projects[smtp][version] = "1.x-dev"
+
 projects[special_menu_items][version] = "2.0"
 
 projects[strongarm][version] = "2.0"
