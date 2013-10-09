@@ -49,6 +49,8 @@ projects[ds][version] = "2.6"
 
 projects[edit_profile][version] = "1.0-beta2"
 
+projects[editableviews][version] = "1.x-dev"
+
 projects[email][version] = "1.2"
 
 projects[entity][version] = "1.2"
@@ -221,6 +223,10 @@ libraries[ckeditor][directory_name] = "ckeditor"
 libraries[jquery.cycle][download][type] = "get"
 libraries[jquery.cycle][download][url] = "http://webapps.tbr.edu/drupal/jquery.cycle.zip"
 libraries[jquery.cycle][directory_name] = "jquery.cycle"
+
+libraries[maskedinput][download][type] = "get"
+libraries[maskedinput][download][url] = "http://webapps.tbr.edu/drupal/masked_input.zip"
+libraries[maskedinput][directory_name] = "maskedinput"
 
 libraries[respondjs][download][type] = "get"
 libraries[respondjs][download][url] = "http://webapps.tbr.edu/drupal/respondjs.zip"
