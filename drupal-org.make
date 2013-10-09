@@ -84,6 +84,8 @@ projects[libraries][version] = "2.1"
 
 projects[link][version] = "1.1"
 
+projects[masked_input][version] = "2.1"
+
 projects[mailchimp][version] = "2.x-dev"
 
 projects[mailsystem][version] = "2.34"
@@ -95,6 +97,8 @@ projects[media_youtube][version] = "2.0-rc3"
 ;projects[memcache][version] = "1.0"
 
 projects[menu_block][version] = "2.3"
+
+projects[menu_firstchild][version] = "1.x-dev"
 
 # projects[mimemail][version] = "1.x-dev"
 
