@@ -82,6 +82,8 @@ projects[imageapi][version] = "1.x-dev"
 
 projects[job_scheduler][version] = "2.x-dev"
 
+projects[jquery_update][version] = "2.x-dev"
+
 projects[libraries][version] = "2.1"
 
 projects[link][version] = "1.1"
@@ -92,7 +94,7 @@ projects[mailchimp][version] = "2.x-dev"
 
 projects[mailsystem][version] = "2.34"
 
-projects[media][version] = "2.0-alpha2"
+projects[media][version] = "2.x-dev"
 
 projects[media_youtube][version] = "2.0-rc3"
 
