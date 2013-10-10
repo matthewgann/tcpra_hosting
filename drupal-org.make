@@ -193,10 +193,12 @@ projects[rules_diff][download][url] = "https://github.com/matthewgann/rules_diff
 ; Themes
 projects[adminimal_theme][version] = "1.x-dev"
 
-projects[open_framework][download][type] = "git"
+projects[open_framework][download][type] = "get"
 projects[open_framework][type] = theme
-projects[open_framework][download][url] = "https://github.com/matthewgann/open_framework.git"
+projects[open_framework][download][url] = "https://github.com/SU-SWS/open_framework/archive/7.x-2.06.zip"
 projects[open_framework][directory_name] = "open_framework"
+
+
 
 projects[tcpra_bootstrap][type] = theme
 projects[tcpra_bootstrap][download][type] = git
